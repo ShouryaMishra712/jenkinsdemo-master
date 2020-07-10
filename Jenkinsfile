@@ -1,6 +1,6 @@
 node{
    stage('SCM Checkout'){
-   git 'https://github.com/ashikthomson/jenkinsdemo'
+   git 'https://github.com/ShouryaMishra712/jenkinsdemo-master'
    }
    
    stage('Clean'){
